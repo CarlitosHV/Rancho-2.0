@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005292163626",
+    "project_id": "rancho-muu-95134",
+    "storage_bucket": "rancho-muu-95134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005292163626:android:42fb9f6aaa5975a4cda953",
+        "android_client_info": {
+          "package_name": "com.example.rancho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005292163626-d1efrn1e2i79t9l298vj5dlecui7s005.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rancho",
+            "certificate_hash": "f0b071be3f260bfe4d8139cb7f3e9839313d5c04"
+          }
+        },
+        {
+          "client_id": "1005292163626-vaa5u0dim2c96poen14n4gnel1jqivu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaOE-QqF3knfuDSa2nbNRdg6bn7FMzFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005292163626-vaa5u0dim2c96poen14n4gnel1jqivu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
