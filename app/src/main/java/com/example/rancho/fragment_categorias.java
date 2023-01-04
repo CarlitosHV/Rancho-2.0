@@ -143,7 +143,7 @@ public class fragment_categorias extends Fragment {
         custom_list_view_categorias.setOnItemLongClickListener((adapterView, view, i, l) -> {
             if(Bandera == 0){
                 String av = (String) activos_ventas.getSelectedItem();
-                if(av.compareTo("Activos") == 0) {
+                if(av.compareTo("Activos") == 0 && MainActivity.UserSys.isTipo()) {
                     toolbar.inflateMenu(R.menu.menu_eliminar);
                     view.setBackgroundColor(R.color.secondaryColor);
                     ItemSeleccionado = animales.get(i).getId();
